@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: black;
+    height: 70px;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    color: #fff;
+}
+
+.icon,
+.titulo,
+.menu {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+img {
+    max-width: 99%;
+}
+
+.icon {
+    width: 5%;
+}
+
+.titulo {
+    width: 30%;
+}
+
+.menu {
+    text-align: right;
+    width: 60%;
+    text-transform: uppercase;
+}
+
+.menu li {
+    list-style: none;
+    display: inline;
+    font-size: 1.2em;
+    padding: 0 10px;
+    border-right: 2px solid #fff;
+}
+
+
+.menu a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.content {
+    padding: 0 10px;
+}
+
+main,
+aside {
+    min-height: 500px;
+    display: inline-block;
+    padding: 5px;
+    vertical-align: top;
+    margin-top: 85px;
+}
+
+main {
+    border: 1px solid #000;
+    width: 77%;
+    margin-right: 1%;
+    text-align: center;
+}
+
+aside {
+    background-color: orange;
+    width: 20%;
+    border-radius: 15px;
+    max-height: 700px;
+}
+
+footer {
+    background-color: gainsboro;
+    height: 150px;
+    margin-top: 5px;
+    display: flex;
+    color: black;
+}
+
+.contato {
+    padding: 0 0 0 15px;
+    width: 65%;
+}
+
+.redes-socias {
+    padding: 30px;
+    width: 30%;
+}
+
+section {
+    padding: 5px;
+    margin-bottom: 10px;
+    background: gainsboro;
+}
+
+.time {
+    width: 30%;
+    margin: 2px;
+    height: 150px;
+    display: inline-block;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
