@@ -1,0 +1,161 @@
+* {
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+html {
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #eee;
+    font-size: 15px;
+}
+
+img {
+    vertical-align: middle;
+    position: relative;
+}
+
+body {
+    line-height: 1.5;
+}
+
+.redes-socias {
+    widows: 100%;
+    height: 130px;
+    background-color: #fff;
+    text-align: center;
+    background-color: #009688;
+    display: inline-block;
+    width: 100%;
+    position: relative;
+}
+
+.habilidade1,
+.habilidade2,
+.habilidade3,
+.habilidade4 {
+    color: #000;
+    background-color: #f1f1f1;
+    font-size: 12px;
+    border-radius: 16px;
+    box-sizing: inherit;
+    display: block;
+}
+
+.habilidade10,
+.habilidade20,
+.habilidade30,
+.habilidade40 {
+    border-radius: 16px;
+    background-color: #009688;
+    padding: 0.01em 16px;
+    box-sizing: inherit;
+
+}
+
+.habilidade10 {
+    width: 90%;
+}
+
+.habilidade20 {
+    width: 80%;
+}
+
+.habilidade30 {
+    width: 75%;
+}
+
+.habilidade40 {
+    width: 70%;
+}
+
+linguagem {
+    height: 24px;
+    background-color: #fff;
+}
+
+.PcenLingIng {
+    width: 50%;
+}
+
+.coluna {
+    display: table;
+    box-sizing: inherit;
+    float: left;
+    width: 31%;
+    background-color: #fff;
+}
+
+.listHab {
+    font-size: 18px;
+}
+
+.meio {
+    width: 65%;
+    text-align: left;
+    float: left;
+}
+
+.meio1 {
+    padding: 5px 5px 0 30px;
+    background-color: #fff;
+    
+}
+
+.meio2 {
+    
+    padding: 5px 5px 0 30px;
+    background-color: #fff;
+}
+
+.linguagemIngles,
+.linguagemEspanhol,
+.linguagemPortugues {
+    color: #000;
+    background-color: #f1f1f1;
+    font-size: 12px;
+    border-radius: 16px;
+    box-sizing: inherit;
+    display: block;
+    width: 100%;
+}
+
+.PcenLingIng,
+.PcenLingEsp,
+.PcenLingPt {
+    border-radius: 16px;
+    background-color: #009688;
+    padding: 0.75em 16px;
+    box-sizing: inherit;
+}
+.PcenLingEsp{
+    width: 50%;
+}
+.PcenLingIng{
+    width: 60%;
+}
+.PcenLingPt{
+    width: 90%;
+}
+.coluna,
+.meio {
+    display: inline-block;
+    padding: 5px;
+    margin-top: 25px;
+}
+.trabalho,
+.formacao{
+    color: black;
+}
+.PerfilDaPessoa{
+    position: absolute;
+    left: 35px;
+    bottom: 300px;
+    color: #fff;
+}
+.allIcons{
+    color: #009688;
+}
+.atual{
+    background-color: #009688;
+}
