@@ -1,0 +1,11 @@
+body {
+    margin: 0 auto;
+    width: 200px;
+}
+
+a:link {
+    text-decoration: none;
+}
+.tabela{
+    align-content: center;
+}   
